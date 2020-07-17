@@ -11,6 +11,9 @@
  - Files must end in format **.html**
  - Runs in a browser
  - **index.html** is the root/home page of a website
+   - What this means is:
+     - http://foo.org loads index.html
+     - http://foo.org/about.html loads about.html
  - We can start testing locally
  
 ### In order to make it public
