@@ -2,5 +2,5 @@
 
 ### What do we need ? 
 
- - Text editor [Notepad++](https://notepad-plus-plus.org/downloads/)
+ - Text editor ([Notepad++](https://notepad-plus-plus.org/downloads/))
  - Browser (Google Chrome)
