@@ -4,13 +4,11 @@
 My web development repository
 ```
 
-# HTML
 
-## [HTML]()
+ - ## [HTML]()
 
-# CSS
 
-## [CSS]()
+ - ## [CSS]()
 
 # JAVASCRIPT
 
