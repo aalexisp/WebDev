@@ -79,3 +79,5 @@ It's syntax is:
 ```html
 <tagname attribute="attributevalue">content</tagname>
 ```
+
+### We can find all the Attributes in [ATTRIBUTES](https://www.w3schools.com/tags/ref_attributes.asp)
