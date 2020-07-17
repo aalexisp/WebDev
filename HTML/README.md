@@ -3,4 +3,4 @@
 ### What do we need ? 
 
  - Text editor ([Notepad++](https://notepad-plus-plus.org/downloads/))
- - Browser (Google Chrome)
+ - Browser ([Google Chrome](https://www.google.com/intl/es_es/chrome/))
