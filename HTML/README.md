@@ -67,3 +67,15 @@ We can classify some of them as:
 
 ### We can find all the tags in [TAGS](https://www.w3schools.com/tags/default.asp)
 
+### HTML Attributes
+
+We can also find something called Attributes which add functionallities to our tags.
+	- All tags have attributes
+	- Provide information about an element
+	- Placed within the start tag
+	- Key/value pairs: key="value"
+It's syntax is:
+
+```html
+<tagname attribute="attributevalue">content</tagname>
+```
