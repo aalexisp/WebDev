@@ -82,3 +82,23 @@ It's syntax is:
 <tagname attribute="attributevalue">content</tagname>
 ```
 
+### HTML Lists
+
+Lists are something essential in HTML and so we have some types.
+ - Unordered lists
+ 
+```html
+<ul>
+	<li>Item List 1<li>
+	<li>Item List 2<li>
+<ul>
+```
+
+ - Ordered lists
+
+```html
+<ol>
+	<li>Item List 1<li>
+	<li>Item List 2<li>
+<ol>
+```
