@@ -31,13 +31,16 @@
 
 
 ```html
-<!DOCTYPE html> //This is a declaration and tells the browser in what HTML this is written in. This one is for HTML5.
+<!-- This is a declaration and tells the browser in what HTML this is written in. This one is for HTML5 -->
+<!DOCTYPE html>
 <html> 
-	<head> //This tag works like metadata for the browser and gives information about the page. This is not displayed.
+	<!-- This tag works like metadata for the browser and gives information about the page. This is not displayed -->
+	<head>
 		<title> Page Title </title>
 	</head>
 	
-	<body> //This is what we really display in our page.
+	<!-- This is what we really display in our page -->
+	<body>
 		<h1>My First Heading</h1> //This tag is used for your headers
 		<p>My First Paragraph.</p> //This other tag is used for your paragraphs
 	</body>
