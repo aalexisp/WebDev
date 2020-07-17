@@ -7,28 +7,17 @@ My web development repository
 
  - ## [HTML]()
 
-
  - ## [CSS]()
 
-# JAVASCRIPT
+ - ## [JAVASCRIPT]()
 
-## [JAVASCRIPT]()
+ - ## [NODEJS]()
 
-# NODEJS
+ - ## [EXPRESSJS]()
 
-## [NODEJS]()
+ - ## [MONGOOSE]()
 
-# EXPRESSJS
-
-## [EXPRESSJS]()
-
-# MONGOOSE/MONGODB
-
-## [MONGOOSE]()
-
-# REACTJS
-
-## [REACTJS]()
+ - ## [REACTJS]()
 
 ### Author
 
