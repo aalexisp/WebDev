@@ -131,4 +131,12 @@ Tables are also very usefull things for sorting things well.
 ```
 
 
+### Usefull things
 
+We can find some usefull things which will be replace with CSS coding but they have to be explained.
+```html
+It's like \n, endl.
+<br>
+Makes a line
+<hr> 
+```
