@@ -23,7 +23,7 @@
 
 ## SYNTAX
 
-## HTML Page Structure
+### HTML Page Structure
 
 <p align="center">
 	<img src="https://github.com/aalexisp/WebDev/blob/master/IMAGES/image0.png" width=60%>
