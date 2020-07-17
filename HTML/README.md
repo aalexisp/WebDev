@@ -25,11 +25,6 @@
 
 ### HTML Page Structure
 
-<p align="center">
-	<img src="https://github.com/aalexisp/WebDev/blob/master/IMAGES/image0.png" width=60%>
-</p>
-
-
 ```html
 <!-- This is a declaration and tells the browser in what HTML this is written in. This one is for HTML5 -->
 <!DOCTYPE html>
@@ -48,3 +43,8 @@
 	</body>
 </html>
 ```
+
+<p align="center">
+	<img src="https://github.com/aalexisp/WebDev/blob/master/IMAGES/image0.png" width=60%>
+</p>
+
