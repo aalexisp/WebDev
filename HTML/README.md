@@ -28,3 +28,17 @@
 <p align="center">
 	<img src="https://github.com/aalexisp/WebDev/blob/master/IMAGES/image0.png" width=60%>
 </p>
+
+
+```html
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>Page Title</title>
+	</head>
+	<body>
+		<h1>My First Heading</h1>
+		<p>My First Paragraph.</p>
+	</body>
+</html>
+```
