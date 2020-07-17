@@ -11,3 +11,9 @@
  - Files must end in format **.html**
  - Runs in a browser
  - **index.html** is the root/home page of a website
+ - We can start testing locally
+ 
+### In order to make it public
+
+ - Need to buy a domain
+ - Hosting package
