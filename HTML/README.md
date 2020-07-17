@@ -54,7 +54,16 @@ The Tags are the essential coding of HTML.
 We can classify some of them as:
  - **Inline Elements**
  	- They don't start in a new line and take the necessary width
+```html
+	<span>, <img>, <a>
+```
+
  - **Block Elements**
  	- Start on a new line and takes full width avaliable
+	
+```html
+	<div>, <h1>..<h6>, <p>, <form>
+```
 
+We can find all the tags in [TAGS](https://www.w3schools.com/tags/default.asp)
 
