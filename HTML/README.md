@@ -85,13 +85,14 @@ It's syntax is:
 ### HTML Lists
 
 Lists are something essential in HTML and so we have some types.
+
  - **Unordered lists**
  
 ```html
 <ul>
 	<li>Item List 1<li>
 	<li>Item List 2<li>
-<ul>
+</ul>
 ```
 
  - **Ordered lists**
@@ -100,5 +101,34 @@ Lists are something essential in HTML and so we have some types.
 <ol>
 	<li>Item List 1<li>
 	<li>Item List 2<li>
-<ol>
+</ol>
 ```
+
+### HTML Tables
+
+Tables are also very usefull things for sorting things well.
+
+```html
+<table>
+	<thead>
+		<tr>
+			<th>Name</th>
+			<th>Age</th>
+		</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>Alexis</td>
+			<td>20</td>
+		</tr>
+		<tr>
+			<td>Mike</td>
+			<td>20</td>
+		</tr>
+	</tbody>
+	
+</table>
+```
+
+
+
