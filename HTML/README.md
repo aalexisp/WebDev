@@ -50,6 +50,8 @@
 
 ### HTML Tags
 
+#### We can find all the tags in [TAGS](https://www.w3schools.com/tags/default.asp)
+
 The Tags are the essential coding of HTML.
 We can classify some of them as:
  - **Inline Elements**
@@ -65,9 +67,9 @@ We can classify some of them as:
 	<div>, <h1>..<h6>, <p>, <form>
 ```
 
-### We can find all the tags in [TAGS](https://www.w3schools.com/tags/default.asp)
-
 ### HTML Attributes
+
+#### We can find all the Attributes in [ATTRIBUTES](https://www.w3schools.com/tags/ref_attributes.asp)
 
 We can also find something called Attributes which add functionallities to our tags.
 	- All tags have attributes
@@ -80,4 +82,3 @@ It's syntax is:
 <tagname attribute="attributevalue">content</tagname>
 ```
 
-### We can find all the Attributes in [ATTRIBUTES](https://www.w3schools.com/tags/ref_attributes.asp)
