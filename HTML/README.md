@@ -41,8 +41,10 @@
 	
 	<!-- This is what we really display in our page -->
 	<body>
-		<h1>My First Heading</h1> //This tag is used for your headers
-		<p>My First Paragraph.</p> //This other tag is used for your paragraphs
+		<!-- This tag is used for your headers -->
+		<h1>My First Heading</h1> 
+		<!-- This other tag is used for your paragraphs -->
+		<p>My First Paragraph.</p>
 	</body>
 </html>
 ```
