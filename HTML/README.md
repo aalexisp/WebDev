@@ -85,7 +85,7 @@ It's syntax is:
 ### HTML Lists
 
 Lists are something essential in HTML and so we have some types.
- - Unordered lists
+ - **Unordered lists**
  
 ```html
 <ul>
@@ -94,7 +94,7 @@ Lists are something essential in HTML and so we have some types.
 <ul>
 ```
 
- - Ordered lists
+ - **Ordered lists**
 
 ```html
 <ol>
