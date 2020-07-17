@@ -130,10 +130,54 @@ Tables are also very usefull things for sorting things well.
 </table>
 ```
 
+### HTML Forms
+
+Forms are needed when we want a log in, send emails...
+Anyway we should know that just by usig HTML the forms won't work and we'll need CSS or PHP to apply methods.
+Furthermore we have to know that the form tag is an inline element and we can use a div to avoid make a jump line
+
+```html
+<form action="process.php" method="POST">
+	<div>
+		<label>First Name</label>
+		<input type="text" name="firstName" placeholder="Enter first name">
+	</div>
+	<div>
+		<label>Second Name</label>
+		<input type="text" name="secondName">
+	</div>
+	<div>
+		<label>Email</label>
+		<input type="email" name="email">
+	</div>
+	<div>
+		<label>Message</label>
+		<textarea name="message"></textarea>
+	</div>
+	<div>
+		<label>Gender</label>
+		<select name="gender">
+			<option value="Male"></option>
+			<option value="Female"></option>
+			<option value="Other"></option>
+		</select>
+	</div>
+	<div>
+		<label>Age:</label>
+		<input type="number" name="age" value="30">
+	</div>
+	<div>
+		<label>Birthday:</label>
+		<input type="date" name="birthday">
+	</div>
+</form>
+
+```
 
 ### Usefull things
 
 We can find some usefull things which will be replace with CSS coding but they have to be explained.
+
 ```html
 It's like \n, endl.
 <br>
