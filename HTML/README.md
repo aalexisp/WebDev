@@ -48,3 +48,13 @@
 	<img src="https://github.com/aalexisp/WebDev/blob/master/IMAGES/image0.png" width=60%>
 </p>
 
+### HTML Tags
+
+The Tags are the essential coding of HTML.
+We can classify some of them as:
+ - **Inline Elements**
+ 	- They don't start in a new line and take the necessary width
+ - **Block Elements**
+ 	- Start on a new line and takes full width avaliable
+
+
